@@ -1,0 +1,6 @@
+2019-05-30 16:12:24.102 [http-nio-8080-exec-1] INFO  com.newmedia.stockpredict.service.UserService - 插入用户logger测试
+2019-05-30 16:12:24.103 [http-nio-8080-exec-1] ERROR com.newmedia.stockpredict.service.UserService - controller error级别出错
+2019-05-30 16:17:28.344 [http-nio-8080-exec-1] INFO  com.newmedia.stockpredict.service.UserService - 插入用户logger测试
+2019-05-30 16:17:28.344 [http-nio-8080-exec-1] ERROR com.newmedia.stockpredict.service.UserService - controller error级别出错
+2019-05-30 16:20:35.437 [http-nio-8080-exec-1] INFO  com.newmedia.stockpredict.service.UserService - 插入用户logger测试
+2019-05-30 16:20:35.437 [http-nio-8080-exec-1] ERROR com.newmedia.stockpredict.service.UserService - controller error级别出错

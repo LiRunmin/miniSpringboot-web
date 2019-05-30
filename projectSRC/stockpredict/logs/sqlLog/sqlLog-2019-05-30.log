@@ -1,0 +1,9 @@
+2019-05-30 16:20:35.535 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - ==>  Preparing: INSERT INTO user(name, age,money) VALUES(?, ?, ?) 
+2019-05-30 16:20:35.550 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - ==> Parameters: SnailClimb(String), 22(Integer), 3000.0(Double)
+2019-05-30 16:20:35.553 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - <==    Updates: 1
+2019-05-30 16:20:35.554 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - ==>  Preparing: INSERT INTO user(name, age,money) VALUES(?, ?, ?) 
+2019-05-30 16:20:35.555 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - ==> Parameters: Daisy(String), 19(Integer), 3000.0(Double)
+2019-05-30 16:20:35.557 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.insertUser - <==    Updates: 1
+2019-05-30 16:20:35.558 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.findAllUser - ==>  Preparing: SELECT * FROM user 
+2019-05-30 16:20:35.558 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.findAllUser - ==> Parameters: 
+2019-05-30 16:20:35.576 [http-nio-8080-exec-1] DEBUG c.n.s.repository.UserRepository.findAllUser - <==      Total: 23
